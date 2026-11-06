@@ -1,0 +1,7 @@
+{
+  "uuid": "awake-locked@kefahi.github.io",
+  "name": "Awake & Locked",
+  "description": "Keep your machine awake from Quick Settings, even with the lid closed. Closing the lid locks and blanks the screen instead of suspending, unless an external monitor is connected. The state is a systemd user unit (keep-awake.service), so a terminal command can toggle the same lock.",
+  "shell-version": ["51"],
+  "url": "https://github.com/kefahi/keep-awake"
+}
